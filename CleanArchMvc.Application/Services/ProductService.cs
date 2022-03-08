@@ -42,7 +42,7 @@ namespace CleanArchMvc.Application.Services
         }
         public async Task RemoveAsync(int? id)
         {
-            var productRemoveCommand = new productRemoveCommand(id.Value);
+            var productRemoveCommand = new ProductRemoveCommand(id.Value);
             if (productRemoveCommand == null)
                 throw new Exception($"Entity could nt be loaded.");
             await _mediator.Send(productRemoveCommand);

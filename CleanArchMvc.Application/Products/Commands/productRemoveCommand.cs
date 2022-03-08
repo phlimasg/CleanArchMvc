@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Application.Products.Commands
 {
-    public class productRemoveCommand : IRequest<Product>
+    public class ProductRemoveCommand : IRequest<Product>
     {
         public int Id { get; set; }
-        public productRemoveCommand(int id)
+        public ProductRemoveCommand(int id)
         {
             Id = id;
         }

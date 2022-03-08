@@ -11,14 +11,14 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Application.Products.Handles
 {
-    public class ProductCreateCommandHandler : IRequestHandler<ProductRemoveCommand, Product>
+    public class ProductCreateCommandHandler : IRequestHandler<ProductCreateCommand, Product>
     {
         private readonly IProductRepository _productRepository;
         public ProductCreateCommandHandler(IProductRepository productRepository)
         {
             _productRepository = productRepository;
         }
-        public async Task<Product> Handle(ProductRemoveCommand request, CancellationToken cancellationToken)
+        public async Task<Product> Handle(ProductCreateCommand request, CancellationToken cancellationToken)
         {
             var product = new Product(request.Name, request.Description, request.Price, request.Stock, request.Image);
             if (product == null)

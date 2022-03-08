@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Application.Products.Handles
 {
-    public class ProductUpdateCommandHandler : IRequestHandler<ProductRemoveCommand, Product>
+    public class ProductUpdateCommandHandler : IRequestHandler<ProductUpdateCommand, Product>
     {
         private readonly IProductRepository _productRepository;
 
@@ -21,7 +21,7 @@ namespace CleanArchMvc.Application.Products.Handles
                 throw new ArgumentNullException(nameof(productRepository));
         }
 
-        public async Task<Product> Handle(ProductRemoveCommand request, CancellationToken cancellationToken)
+        public async Task<Product> Handle(ProductUpdateCommand request, CancellationToken cancellationToken)
         {
             var product = await _productRepository.GetByIdAsync(request.Id);
             if (product == null)
