@@ -1192,3 +1192,6 @@ D:\dev\curso\Dotnet\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMv
 D:\dev\curso\Dotnet\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net5.0\ref\CleanArchMvc.WebUi.dll
 D:\dev\curso\Dotnet\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.pdb
 D:\dev\curso\Dotnet\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.genruntimeconfig.cache
+D:\dev\curso\Dotnet\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\dev\curso\Dotnet\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net5.0\MediatR.dll
+D:\dev\curso\Dotnet\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
