@@ -1,0 +1,390 @@
+﻿++Solution 'CleanArchMvc' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:CleanArchMvc.sln
+++1 - Services
+i:{00000000-0000-0000-0000-000000000000}:1 - Services
+++2 - Application
+i:{00000000-0000-0000-0000-000000000000}:2 - Application
+++CleanArchMvc.Application
+i:{2ef07ad3-a514-4ee8-b078-b7c335b34ad4}:CleanArchMvc.Application
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\bin\debug\net5.0\cleanarchmvc.application.dll
+++Dependencies
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:>12619
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:>12513
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:>13093
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:>12703
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:>12794
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:>14170
+++DTOs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\dtos\
+++CategoryDTO.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\dtos\categorydto.cs
+++ProductDTO.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\dtos\productdto.cs
+++Interfaces
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\interfaces\
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\interfaces\
+++ICategoryService.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\interfaces\icategoryservice.cs
+++IProductService.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\interfaces\iproductservice.cs
+++Mappings
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\mappings\
+++DomainToDTOMappingProfile.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\mappings\domaintodtomappingprofile.cs
+++DTOToCommandMappingProfile.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\mappings\dtotocommandmappingprofile.cs
+++Products
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\products\
+++Commands
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\commands\
+++ProductCommand.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\commands\productcommand.cs
+++ProductCreateCommand.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\commands\productcreatecommand.cs
+++productRemoveCommand.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\commands\productremovecommand.cs
+++ProductUpdateCommand.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\commands\productupdatecommand.cs
+++Handles
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\handles\
+++Queries
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\queries\
+++Services
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\services\
+++Analyzers
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:analyzers
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:analyzers
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:analyzers
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:analyzers
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:analyzers
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:analyzers
+++Frameworks
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:frameworks
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:frameworks
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:frameworks
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:frameworks
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:frameworks
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:frameworks
+++Packages
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:packages
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:packages
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:packages
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:packages
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:packages
+++Projects
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:projects
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:projects
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:projects
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:projects
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:projects
+++GetproductByIdQueryHandler.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\handles\getproductbyidqueryhandler.cs
+++GetProductsQueryHandler.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\handles\getproductsqueryhandler.cs
+++ProductCreateCommandHandler.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\handles\productcreatecommandhandler.cs
+++ProductRemoveCommandHandler.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\handles\productremovecommandhandler.cs
+++ProductUpdateCommandHandler.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\handles\productupdatecommandhandler.cs
+++GetproductByIdQuery.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\queries\getproductbyidquery.cs
+++GetProductsQuery.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\products\queries\getproductsquery.cs
+++CategoryService.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\services\categoryservice.cs
+++ProductService.cs
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\services\productservice.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.NETCore.App
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.application\microsoft.netcore.app
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\microsoft.netcore.app
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain.tests\microsoft.netcore.app
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\microsoft.netcore.app
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.ioc\microsoft.netcore.app
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\microsoft.netcore.app
+++AutoMapper (10.1.1)
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:>14191
+++MediatR (9.0.0)
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:>14189
+++CleanArchMvc.Domain
+i:{8d2f4574-1625-461d-8c1b-5d79daef7b80}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\bin\debug\net5.0\cleanarchmvc.domain.dll
+i:{b8ef6646-879c-44db-a4bb-12709c9b68d0}:CleanArchMvc.Domain
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\bin\debug\net5.0\cleanarchmvc.domain.dll
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\bin\debug\net5.0\cleanarchmvc.domain.dll
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\bin\debug\net5.0\cleanarchmvc.domain.dll
+++3 - Domain
+i:{00000000-0000-0000-0000-000000000000}:3 - Domain
+++Entities
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\entities\
+++ICategoryRepository.cs
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\interfaces\icategoryrepository.cs
+++IProductRepository.cs
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\interfaces\iproductrepository.cs
+++IRepositoryBase.cs
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\interfaces\irepositorybase.cs
+++Validation
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\validation\
+++DomainExceptionValidation.cs
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\validation\domainexceptionvalidation.cs
+++Category.cs
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\entities\category.cs
+++Entity.cs
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\entities\entity.cs
+++Product.cs
+i:{abecb7ff-f8fe-46d1-96d1-02ac6a9a3d32}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain\entities\product.cs
+++6 - Tests
+i:{00000000-0000-0000-0000-000000000000}:6 - Tests
+++CleanArchMvc.Domain.Tests
+i:{579ce741-170d-45bf-970f-9255328be913}:CleanArchMvc.Domain.Tests
+++CategoryUnitTest1.cs
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain.tests\categoryunittest1.cs
+++ProductUnitTest1.cs
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.domain.tests\productunittest1.cs
+++xunit.analyzers
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:c:\users\roliveiral\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++coverlet.collector (3.0.2)
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:>14196
+++FluentAssertions (6.5.1)
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:>14190
+++Microsoft.NET.Test.Sdk (16.9.4)
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:>14188
+++xunit (2.4.1)
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:>14193
+++xunit.runner.visualstudio (2.4.3)
+i:{0b29b064-1d82-4ac0-84be-b53a3a9018b8}:>14195
+++4 - Infra
+i:{00000000-0000-0000-0000-000000000000}:4 - Infra
+++4.1 - Data
+i:{23df4058-3d13-4bcc-bb02-5f50b473c6de}:4.1 - Data
+++CleanArchMvc.Infra.Data
+i:{324ed44f-d5ad-4f74-a73e-987e928af021}:CleanArchMvc.Infra.Data
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\bin\debug\net5.0\cleanarchmvc.infra.data.dll
+++Context
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\context\
+++EntitiesConfiguration
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\entitiesconfiguration\
+++CategoryConfiguration.cs
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\entitiesconfiguration\categoryconfiguration.cs
+++ProductConfiguration.cs
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\entitiesconfiguration\productconfiguration.cs
+++Identity
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\identity\
+++Migrations
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\migrations\
+++Repositories
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\repositories\
+++ApplicationDbContext.cs
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\context\applicationdbcontext.cs
+++20220307012403_Initial.cs
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\migrations\20220307012403_initial.cs
+++20220307120524_SeedProducts.cs
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\migrations\20220307120524_seedproducts.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\migrations\applicationdbcontextmodelsnapshot.cs
+++CategoryRepository.cs
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\repositories\categoryrepository.cs
+++ProductRepository.cs
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\repositories\productrepository.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:c:\users\roliveiral\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.EntityFrameworkCore.Design (5.0.14)
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:>14223
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.14)
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:>14222
+++Microsoft.EntityFrameworkCore.Tools (5.0.14)
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:>14224
+++20220307012403_Initial.Designer.cs
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\migrations\20220307012403_initial.designer.cs
+++20220307120524_SeedProducts.Designer.cs
+i:{c1560482-a2b7-44f7-afcf-c1672bb58f3d}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.data\migrations\20220307120524_seedproducts.designer.cs
+++4.2 - IoC
+i:{23df4058-3d13-4bcc-bb02-5f50b473c6de}:4.2 - IoC
+++CleanArchMvc.Infra.Ioc
+i:{c45686cb-e4c7-4494-a0c7-2115d5f95920}:CleanArchMvc.Infra.Ioc
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.ioc\bin\debug\net5.0\cleanarchmvc.infra.ioc.dll
+++DependencyInjection.cs
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.infra.ioc\dependencyinjection.cs
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:>14207
+++MediatR.Extensions.Microsoft.DependencyInjection (9.0.0)
+i:{d9a7a979-98a2-4f04-86a0-0e2b46caff7f}:>14208
+++0 - Presentation
+i:{00000000-0000-0000-0000-000000000000}:0 - Presentation
+++CleanArchMvc.WebUi
+i:{304bfcfb-a1bf-420d-9b25-259250ed0ede}:CleanArchMvc.WebUi
+++Connected Services 
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:>14171
+++Properties
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\properties\
+++wwwroot
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\
+++Controllers
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\controllers\
+++Models
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\models\
+++Views
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\
+++appsettings.json
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\appsettings.json
+++appsettings.Development.json
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\appsettings.development.json
+++Program.cs
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\program.cs
+++Startup.cs
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\startup.cs
+++No service dependencies discovered
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:>14172
+++launchSettings.json
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\properties\launchsettings.json
+++css
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\css\
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\js\
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\
+++favicon.ico
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\favicon.ico
+++CategoriesController.cs
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\controllers\categoriescontroller.cs
+++HomeController.cs
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\controllers\homecontroller.cs
+++ProductsController.cs
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\controllers\productscontroller.cs
+++ErrorViewModel.cs
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\models\errorviewmodel.cs
+++Categories
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\categories\
+++Home
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\home\
+++Shared
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\shared\
+++_ViewImports.cshtml
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\_viewstart.cshtml
+++Microsoft.AspNetCore.Analyzers
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (5.0.14)
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:>14240
+++site.css
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\css\site.css
+++site.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\js\site.js
+++bootstrap
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\
+++jquery
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery\
+++jquery-validation
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\categories\index.cshtml
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\home\index.cshtml
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\products\index.cshtml
+++Privacy.cshtml
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\views\shared\error.cshtml
+++dist
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery\dist\
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery\license.txt
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{ce9e60f5-159f-4f26-aabe-a9c6647c7704}:c:\users\roliveiral\documents\github\cleanarchmvc\cleanarchmvc.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
