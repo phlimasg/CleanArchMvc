@@ -1597,3 +1597,4 @@ C:\Users\roliveiral\Documents\GitHub\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\n
 C:\Users\roliveiral\Documents\GitHub\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.pdb
 C:\Users\roliveiral\Documents\GitHub\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.genruntimeconfig.cache
 C:\Users\roliveiral\Documents\GitHub\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net5.0\ref\CleanArchMvc.WebUi.dll
+C:\Users\roliveiral\Documents\GitHub\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
