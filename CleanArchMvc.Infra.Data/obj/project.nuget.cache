@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TjXBpeMSKX7vjuHw2iWDDV5V5+JgMiiau9LcqomvJP1g2cCPp0veWU8MWDjgf6o6MmZX6mg4ySU0z4yydQGTgA==",
+  "dgSpecHash": "TUuQM/8eT9BHpj2ATra/8dAhsVAP5qxMWGKCZO2YYKANFGtcLFBs80CU6XRTNB1wL8d55aDxqj2VyIDoGvgNHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\roliveiral\\Documents\\GitHub\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [
@@ -100,7 +100,10 @@
     "C:\\Users\\roliveiral\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\roliveiral\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\roliveiral\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\roliveiral\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\roliveiral\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\roliveiral\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\roliveiral\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\roliveiral\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
